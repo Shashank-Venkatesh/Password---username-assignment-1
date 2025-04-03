@@ -3,6 +3,24 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "password---username-assignment-1",
+  "description": "- Understand how to manipulate cookies in web development to track and update a count.\r - Learn to implement client-side logic to increase a cookie-based count with each user interaction.",
+  "version": "1.0.0",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashank-Venkatesh/Password---username-assignment-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shashank-Venkatesh/Password---username-assignment-1/issues"
+  },
+  "homepage": "https://github.com/Shashank-Venkatesh/Password---username-assignment-1#readme"
 }
